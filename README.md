@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://www.flaticon.com/free-icon/python_5968350?related_id=5968350&origin=pack)
+![Screenshot](https://www.flaticon.com/free-icon/python_5968350?related_id=5968350&origin=pack)
 
 <!--
 **niksolaz/niksolaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
