@@ -5,7 +5,7 @@
   <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png" width="40" height="40" alt="Javascript"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="40" height="40" alt="Vue.js"/>
   <img src="https://iconape.com/wp-content/png_logo_vector/nuxt-logo.png" width="40" height="40" alt="Nuxt.js"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/electron-1024.png" width="40" height="40" alt="Electron.js"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQo7zONXmmw95LR7gzSnCb6Xik-XaLkzP9FcjpgAS9cA&s" width="40" height="40" alt="Electron.js"/>
 </div>
 
 <!--
