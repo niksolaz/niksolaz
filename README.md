@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://icons8.com/icon/13441/python" width="20" height="20"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw34TwXsc-rQPwPVJQlOFStH&ust=1701695768127000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi42fCs84IDFQAAAAAdAAAAABAJ" width="20" height="20"/>
 
 <!--
 **niksolaz/niksolaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
