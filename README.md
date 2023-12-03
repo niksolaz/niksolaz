@@ -15,6 +15,8 @@ As an experienced developer, I specialize in a wide range of programming languag
   <img src="https://static-00.iconduck.com/assets.00/electron-icon-1889x2048-istwe9sw.png" width="40" height="40" alt="Electron.js"/>
 </div>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/656c89dd5145316d25ae856c?variant=dark)](https://roadmap.sh)
+
 ### Passions and Interests
 Apart from my love for coding, I have a passion for drawing and reading Manga. I could talk for hours about theories on Eiichiro Oda's One Piece or share recommendations on some of my favorite manga.
 
