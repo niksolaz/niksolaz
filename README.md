@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi People 👋
+
+Welcome to my digital realm! I am a passionate Full Stack Developer with over 10 years of experience in the field of software development. My base is in Asti, Italy, but my influence extends far beyond geographical borders.
+
 <div style="display: flex; margin: 5px;">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" width="40" height="40" alt="Python" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width="40" height="40" alt="Node.js"/>
