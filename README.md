@@ -23,7 +23,10 @@ I am determined to constantly improve my professional position and pursue wealth
 
 ### Get in Touch
 I am always open to new professional opportunities, collaborations, and discussions. Feel free to reach out to me here on GitHub or through my social channels.
-
+<div style="display: flex; margin: 5px;">
+  <a href="https://www.linkedin.com/in/nicolasolazzo/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="40" height="40" alt="Linkedin" /></a>
+  <a href="https://github.com/NiksolazLogix/NiksolazLogix" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="Github"/></a>
+</div>
 Thank you for visiting my profile, and may the code be with you!
 
 <!--
