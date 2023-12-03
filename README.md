@@ -1,7 +1,11 @@
 ### Hi there 👋
 <div style="display: flex; margin: 5px;">
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" width="40" height="40"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width="40" height="40"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" width="40" height="40" alt="Python" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png" width="40" height="40" alt="Javascript"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="40" height="40" alt="Vue.js"/>
+  <img src="https://iconape.com/wp-content/png_logo_vector/nuxt-logo.png" width="40" height="40" alt="Nuxt.js"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/electron-1024.png" width="40" height="40" alt="Electron.js"/>
 </div>
 
 <!--
